@@ -21,6 +21,13 @@ O **CEP Finder 1.0** é uma aplicação web desenvolvida para consulta e valida�
 
 ---
 
+## Divisão do Desenvolvimento
+
+* **Serviço em Go & Máscara de Entrada (JS):** Desenvolvido por **[@JV74](https://github.com/joao7834)**
+* **Serviço em Java & Estrutura Base:** Desenvolvido por **[@FXVIZFF2](https://github.com/FXVIZFF2)**
+
+---
+
 ## Funcionalidades
 
 * **Consulta Instantânea:** Localização rápida de endereços a partir do CEP informado.
